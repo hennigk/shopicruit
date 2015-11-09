@@ -1,0 +1,26 @@
+{
+  "name": "shopicruit",
+  "version": "1.0.0",
+  "description": "calculate price of lamps and wallets",
+  "main": "script.js",
+  "scripts": {
+    "test": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hennigk/shopicruit.git"
+  },
+  "keywords": [
+    "shopify"
+  ],
+  "author": "kayla hennig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hennigk/shopicruit/issues"
+  },
+  "homepage": "https://github.com/hennigk/shopicruit#readme",
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "request": "^2.65.0"
+  }
+}
